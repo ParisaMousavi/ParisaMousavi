@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Parisa Moosavinezhad (@ParisaMousavi)
 - 👀 I’m interested in new technologies specially multicloud solutions
 - 🌱 I’m currently learning several topics
-- 💞️ I’m looking to collaborate on cloud project with azure and aws 
+- 💞️ I’m looking to collaborate on cloud project with azure, aws and gcp
 - 📫 How to reach me? by sending an email to me (parisamoosavinezhad@yahoo.com)
 
 <!---
